@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AmaroReghine
+- 👋 Hi, I’m @AmaroR.
 - 👀 I’m interested in python
 - 🌱 I’m currently learning ADS
 - 💞️ I’m looking to collaborate on Python
